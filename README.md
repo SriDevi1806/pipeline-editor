@@ -16,7 +16,9 @@ This project is a pipeline builder application built using React, Vite, Tailwind
 - **Standard Folder Structure:** The project follows a standard folder structure, enhancing clarity and organization.
 
 ## Preview
-![image](https://github.com/SriDevi1806/pipeline-editor.git)
+![Screenshot (18)](https://github.com/user-attachments/assets/fc4d160d-fcb7-40fc-9ab5-758bdab4a79a)
+
+(https://github.com/SriDevi1806/pipeline-editor.git)
 
 
 ## Live Demo
