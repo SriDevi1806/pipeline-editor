@@ -16,7 +16,7 @@ This project is a pipeline builder application built using React, Vite, Tailwind
 - **Standard Folder Structure:** The project follows a standard folder structure, enhancing clarity and organization.
 
 ## Preview
-![image]()
+![image](https://github.com/SriDevi1806/pipeline-editor.git)
 
 
 ## Live Demo
@@ -28,7 +28,7 @@ To run the application locally, follow these steps:
 
 1. **Clone the Repository:**
    ```sh
-   git clone 
+   git clone https://github.com/SriDevi1806/pipeline-editor.git
    
    cd ./ctrlb-pipeline-builder
    ```
