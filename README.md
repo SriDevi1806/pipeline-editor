@@ -20,7 +20,7 @@ This project is a pipeline builder application built using React, Vite, Tailwind
 
 
 ## Live Demo
-
+https://pipelineditor.netlify.app/
 
 ## Installation
 
